@@ -1,0 +1,12 @@
+{
+  "name": "epsilon",
+  "displayName": "Epsilon",
+  "author": "[#4D4E58[]]Taran[[]]",
+  "description": "Still Working on it...",
+  "version": "0",
+  "main": "tarlan.epsilon.Epsilon",
+  "minGameVersion": "136",
+  "dependencies": [],
+  "hidden": false,
+  "java": true
+}
